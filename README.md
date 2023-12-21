@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oum024
 - 👀 I’m interested in web Devlopment
-- 🌱 I’m currently learning FrontEnd
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
