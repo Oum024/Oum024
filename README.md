@@ -9,7 +9,7 @@ I am Learning Web Development from 2023.
 * 🌍  I'm based in Pij,Gujrat
 * ✉️  You can contact me at [ompatel567.26@gmail.com](mailto:ompatel567.26@gmail.com)
 * 🧠  I'm learning ReactJS
-* ⚡  I am a GOAT😂
+* ⚡  I am a Best Web Developer😂
 
 <a href="https://www.github.com/Oum024" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Oum024?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
