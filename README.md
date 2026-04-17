@@ -5,9 +5,9 @@ Learning Cyber Security Student
 -------------
 
 I am Learning Cyber Security.
-I used to learn Web Development on 2023 and then there was gap of about 3 year but not it time for new me as Cyber Guy
+I used to learn Web Development in 2023, and then there was a gap of about 3 years, but now it is time for a new me as a Cyber Guy
 
-* 🌍  I'm based in Scranton PA,USA
+* 🌍  I'm based in Scranton, PA, USA
 * ✉️  You can contact me at [ompatel567.26@gmail.com](mailto:ompatel567.26@gmail.com)
 * 🧠  I'm learning Cyber World
 * ⚡  I am a Cyber World Guy
