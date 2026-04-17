@@ -6,7 +6,7 @@ Web Developer
 
 I am Learning Web Development from 2023.
 
-* 🌍  I'm based in Pij,Gujrat
+* 🌍  I'm based in Scranton PA,USA
 * ✉️  You can contact me at [ompatel567.26@gmail.com](mailto:ompatel567.26@gmail.com)
 * 🧠  I'm learning ReactJS and some other Technology
 * ⚡  I am a Web Developer 
