@@ -1,15 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oum R Patel
 =================================================================================================================================
 
-Web Developer
+Learning Cyber Security Student
 -------------
 
-I am Learning Web Development from 2023.
+I am Learning Cyber Security.
+I used to learn Web Development on 2023 and then there was gap of about 3 year but not it time for new me as Cyber Guy
 
 * 🌍  I'm based in Scranton PA,USA
 * ✉️  You can contact me at [ompatel567.26@gmail.com](mailto:ompatel567.26@gmail.com)
-* 🧠  I'm learning ReactJS and some other Technology
-* ⚡  I am a Web Developer 
+* 🧠  I'm learning Cyber World
+* ⚡  I am a Cyber World Guy
 
 <a href="https://www.github.com/Oum024" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Oum024?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
